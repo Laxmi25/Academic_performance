@@ -1,7 +1,5 @@
 <html>
 <head>
-    <meta charset="UTF-8/">
-    <title>Educational Details</title>
     <style>
     .name{
         text-align:center;
@@ -29,14 +27,10 @@
     <table  >
         <tr><h2>Qualification :Matriculation</h2></tr>
         <tr><h2>School: J.N.V.Kaimur</h2></tr>
-        <tr><h2>Board: CBSE</h2></tr>
+        <tr><h2>Board: CBSE
         <tr><h2>Marks: <a href="https://laxmi25.github.io/Qualification/">#10</a></h2></tr>
       
-        <tr><h2>Qualification :Intermediate</h3></tr>
-        <tr><h2>School: J.N.V.Kaimur</h3></tr>
-        <tr><h2>Board: CBSE</h3></tr>
-        <tr><h2>Marks: <a href=" https://laxmi25.github.io/Education/">#12</a></h2></tr>
-    </table>
-</div>
-</body>
-</html>
+        <tr><h2>Qualification :Intermediate
+        <tr><h2>School: J.N.V.Kaimur
+        <tr><h2>Board: CBSE
+        <tr><h2>Marks: <a href=" https://laxmi25.github.io/Education/">#12
